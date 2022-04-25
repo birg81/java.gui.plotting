@@ -1,1 +1,1 @@
-# GraphicWindowPlotter
+# Plotting
